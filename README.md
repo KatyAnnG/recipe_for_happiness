@@ -26,10 +26,8 @@
       </ul>
     </li>
     <li><a href="#conclusions">Conclusions</a></li>
-    <li><a href="#sources">Sources</a></li>
     <li><a href="#feedback">Feedback</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
